@@ -1,6 +1,6 @@
 # Proj.Individual_ResiliaData-Mod2
 
-Projeto de Avaliação de Tecnologias Empresariais
+Projeto Tecnologias Empresariais
 
 Propósito:
 
@@ -9,7 +9,5 @@ O propósito deste projeto consiste em criar um sistema que ajude na avaliação
 
 Conteúdo:
 
-modelo_banco.png: Figura demonstrando o modelo lógico do banco de dados.
-
 Proj. Sistema ResiliaData Md2.docx: Resolução das perguntas solicitadas no projeto.
-
+modelo_banco.png: Figura demonstrando o modelo lógico do banco de dados.
