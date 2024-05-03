@@ -9,6 +9,6 @@ O propósito deste projeto consiste em criar um diagrama lógico que ajude na av
 
 Conteúdo:
 
-Proj. Sistema ResiliaData Md2.docx: Resolução das perguntas solicitadas no projeto.
+Proj. Sistema ResiliaData Md2.pdf: Resolução das perguntas solicitadas no projeto.
 
 modelo_banco.png: Figura demonstrando o modelo lógico do banco de dados.
